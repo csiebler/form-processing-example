@@ -1,0 +1,12 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "myblob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "forms-incoming/{name}",
+      "connection": "formprocessingexample42_STORAGE"
+    }
+  ]
+}
