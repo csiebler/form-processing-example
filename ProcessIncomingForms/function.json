@@ -2,7 +2,7 @@
   "scriptFile": "__init__.py",
   "bindings": [
     {
-      "name": "myblob",
+      "name": "inputblob",
       "type": "blobTrigger",
       "direction": "in",
       "path": "forms-incoming/{name}",

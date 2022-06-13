@@ -5,3 +5,4 @@
 azure-functions
 azure-ai-formrecognizer
 azure-identity
+azure-storage-blob
